@@ -1,3 +1,5 @@
+@ multiplication tables
+
 mov r0,#2
 mov r1,#10
 ldr r2,=0x00002000

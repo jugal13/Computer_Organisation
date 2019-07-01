@@ -1,3 +1,5 @@
+@ find factorial recusively
+
 mov r0,#5
 bl fact
 swi 0x11

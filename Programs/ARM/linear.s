@@ -1,3 +1,5 @@
+@ Linear search
+
 ldr r0,=0x00002000
 mov r1,#0
 mov r2,#10

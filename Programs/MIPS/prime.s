@@ -1,3 +1,5 @@
+@ Check if prime number or not
+
 .data
 prompt: .asciiz "Enter number : "
 msg_true: .asciiz "Prime"

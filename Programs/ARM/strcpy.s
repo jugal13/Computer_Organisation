@@ -1,3 +1,5 @@
+@ string copy function
+
 mov r0,#0
 mov r1,#'a
 ldr r2,=0x00002000

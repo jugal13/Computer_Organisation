@@ -1,3 +1,5 @@
+@ string reverse function
+
 .data 
 prompt: .asciiz  "Enter the string \n"
 str: .space 32
